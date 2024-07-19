@@ -1,8 +1,6 @@
-cmake_minimum_required(3.13 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.20 FATAL_ERROR)
 
 set(PROJECT_NAME DOCKER_TEST)
-
-set(CMAKE_CXX_STANDARD 17)
 
 project(${PROJECT_NAME})
 

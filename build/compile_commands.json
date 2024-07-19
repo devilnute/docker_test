@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/bogdan/docker_test/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/DOCKER_TEST.dir/src/main.cpp.o -c /home/bogdan/docker_test/src/main.cpp",
+  "file": "/home/bogdan/docker_test/src/main.cpp",
+  "output": "CMakeFiles/DOCKER_TEST.dir/src/main.cpp.o"
+}
+]
